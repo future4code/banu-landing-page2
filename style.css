@@ -96,12 +96,20 @@ main{
 	border-radius: 10px;
 	color: white;
 	text-decoration: none;
+	width: 12vw;
 }
 
-.botao a:hover {
+.botao:hover {
 	background: #dd890b;
 }
 
+a {
+	text-decoration: none;
+}
+
+a:visited {
+	color:white;
+}
 
 /* Footer e redes sociais */
 .imgSocial {
