@@ -105,10 +105,10 @@ main{
 
 /* Footer e redes sociais */
 .imgSocial {
-	width: 5vw;
+	width: 3vw;
 }
 
 .footerSocial {
-	display:flex;
-	justify-content: space-evenly;
+	display: flex;
+	flex-direction: row-reverse;
 }
