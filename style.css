@@ -56,30 +56,32 @@ main{
 	display: inline;
 }
 
+/* Definição do grid da parte das seções(com tamanhos iguais) */
 .container {
 	display: grid;
 	grid-template-rows: 1fr 1fr 1fr;
-	
 }
 
-.bloco1{
+/* Sections diferentes,centralização e organizar o texto dentro de cada seção */
+#bloco1, #bloco2, #bloco3 {
 	display: flex;
 	text-align: center;
 	align-items: center;
 	background: #fdf5e9;
 }
 
-.imgBloco1{
+.imgBloco1 {
 	width: 100vh;
 	height: 100vh;
 }
 
-.containerTexto{
+.containerTexto {
 	display: flex;
 	flex-direction: column;
 }
-.botao  {
 
+.botao  {
+	margin-top: 1vh;
 	background: #cc550c;
 	padding: 10px;
 	border-radius: 10px;
@@ -91,7 +93,9 @@ main{
 	background: #dd890b;
 }
 
-.imgSocial{
+
+/* Footer e redes sociais */
+.imgSocial {
 	width: 5vw;
 }
 
