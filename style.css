@@ -26,7 +26,7 @@ main{
 	min-width: 40vh;
 }
 #menu-responsivo,
-#menu { /* responsividade para o dispositovo mobile, oculta */
+#menu { /* responsividade para o dispositivo mobile, oculta */
 	display: none;
 }
 
@@ -72,9 +72,18 @@ main{
 
 .imgBloco1 {
 	width: 100vh;
-	height: 100vh;
+	height: 60vh;
 }
 
+.imgBloco2 {
+	width: 100vh;
+	height: 80vh;
+}
+
+.imgBloco3 {
+	width: 100vh;
+	height: 80vh;
+}
 .containerTexto {
 	display: flex;
 	flex-direction: column;
