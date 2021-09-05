@@ -1,0 +1,114 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;300;400;500;600;700;900&display=swap');
+
+* {
+    /*width: 100%;*/
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins';
+    font-weight: 400;
+}
+
+html, body{
+    overflow-x: hidden;
+}
+
+nav { /* Toda parte do Menu, onde consta "quem somos, produtos e contato" */
+	width: 100vw;
+	margin: 0;
+	background: #c24e07;
+	display: flex;
+	padding: 0.5rem 5rem 0 0;
+	align-items: center;
+}
+
+main{
+	min-width: 40vh;
+}
+#menu-responsivo,
+#menu { /* responsividade para o dispositivo mobile, oculta */
+	display: none;
+}
+
+.logo { /* Posicionamento da logo marca */
+	padding-left: 3vw;
+	text-align: center;
+}
+
+.logo img { /* tamanho da logo marca */
+	max-width: 9vw;
+}
+
+.menu { /* TXT MENU TOPO */
+	flex: 3;
+	font-family: 20px;
+	text-align: right;
+}
+
+.menu a {
+	margin: 20px;
+	color: white;
+	font-weight: 400;
+    font-size: 1.25em;
+}
+
+.menu ul li {
+	display: inline;
+}
+
+/* Definição do grid da parte das seções(com tamanhos iguais) */
+.container {
+	display: grid;
+	grid-template-rows: 1fr 1fr 1fr;
+}
+
+/* Sections diferentes,centralização e organizar o texto dentro de cada seção */
+#bloco1, #bloco2, #bloco3 {
+	display: flex;
+	text-align: center;
+	align-items: center;
+	background: #fdf5e9;
+}
+
+.imgBloco1 {
+	width: 100vh;
+	height: 60vh;
+}
+
+.imgBloco2 {
+	width: 100vh;
+	height: 80vh;
+}
+
+.imgBloco3 {
+	width: 100vh;
+	height: 80vh;
+}
+.containerTexto {
+	display: flex;
+	flex-direction: column;
+}
+
+.botao  {
+	margin-top: 1vh;
+	background: #cc550c;
+	padding: 10px;
+	border-radius: 10px;
+	color: white;
+	text-decoration: none;
+}
+
+.botao a:hover {
+	background: #dd890b;
+}
+
+
+/* Footer e redes sociais */
+.imgSocial {
+	width: 3vw;
+}
+
+.footerSocial {
+	display: flex;
+	flex-direction: row-reverse;
+}
