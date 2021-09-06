@@ -24,10 +24,7 @@ nav { /* Toda parte do Menu, onde consta "quem somos, produtos e contato" */
 
 main{
 	min-width: 40vh;
-}
-#menu-responsivo,
-#menu { /* responsividade para o dispositivo mobile, oculta */
-	display: none;
+	
 }
 
 .logo { /* Posicionamento da logo marca */
@@ -39,7 +36,7 @@ main{
 	max-width: 9vw;
 }
 
-.menu { /* TXT MENU TOPO */
+.menu { /* TXT topo - menu */
 	flex: 3;
 	font-family: 20px;
 	text-align: right;
@@ -95,6 +92,7 @@ main{
 .containerTexto {
 	display: flex;
 	flex-direction: column;
+	
 }
 
 .botao  {
