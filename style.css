@@ -63,11 +63,19 @@ main{
 }
 
 /* Sections diferentes,centralização e organizar o texto dentro de cada seção */
-#bloco1, #bloco2, #bloco3 {
+#bloco1, #bloco3 {
 	display: flex;
 	text-align: center;
 	align-items: center;
 	background: #fdf5e9;
+}
+
+#bloco2
+{
+	display: flex;
+	text-align: center;
+	align-items: center;
+	background: #f0bd71;
 }
 
 .imgBloco1 {
