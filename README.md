@@ -9,10 +9,9 @@ O <strong>4Food</strong> é um projeto de uma grande rede de supermercados que e
 </ul>
 
 <strong>Imagens do Site</strong> <br>
+
 Section 1 + Header com nav(ao clicar, leva a seção correspondente)<br>
 =======
-</ul>
-
 <strong>Imagens do Site</strong> <br>
 Section 1 + Header com nav(ao clicar,leva a seção correspondente)<br>
 >>>>>>> master
