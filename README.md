@@ -11,14 +11,13 @@ O <strong>4Food</strong> é um projeto de uma grande rede de supermercados que e
 <strong>Imagens do Site</strong> <br>
 
 Section 1 + Header com nav(ao clicar, leva a seção correspondente)<br>
-=======
 <strong>Imagens do Site</strong> <br>
 Section 1 + Header com nav(ao clicar,leva a seção correspondente)<br>
->>>>>>> master
 ![image](https://user-images.githubusercontent.com/70165987/132154416-bf380aa8-dae3-4fa4-85fc-28278beb3010.png)
 
 Section 2 <br>
 ![image](https://user-images.githubusercontent.com/70165987/132154428-adeb22c1-22dd-40a5-8538-9b56aff01c03.png)
+
 Section 3 + Footer com redes sociais<br>
 ![image](https://user-images.githubusercontent.com/70165987/132154449-d915d842-41d9-4dd3-b1c9-3901ac75f2e0.png)
 
