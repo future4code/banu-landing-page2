@@ -4,13 +4,24 @@ O <strong>4Food</strong> é um projeto de uma grande rede de supermercados que e
   <li>Ayratan Hirakawa Glória
   <li>Fabiana Balduína
   <li>Paloma Costa
+
+  <li> Site: typical-rate.surge.sh
+</ul>
+
+<strong>Imagens do Site</strong> <br>
+Section 1 + Header com nav(ao clicar, leva a seção correspondente)<br>
+=======
 </ul>
 
 <strong>Imagens do Site</strong> <br>
 Section 1 + Header com nav(ao clicar,leva a seção correspondente)<br>
+>>>>>>> master
 ![image](https://user-images.githubusercontent.com/70165987/132145652-852fddb8-358d-41bf-9434-17f15cd90fe0.png)
 Section 2 <br>
 ![image](https://user-images.githubusercontent.com/70165987/132145665-19e2ae91-04fc-4182-a226-2760b7c733b2.png)
 Section 3 + Footer com redes sociais<br>
+
+![image](https://user-images.githubusercontent.com/70165987/132145679-d4ebad1b-bad6-4892-9569-c6974489f344.png)
+=======
 ![image](https://user-images.githubusercontent.com/70165987/132145679-d4ebad1b-bad6-4892-9569-c6974489f344.png)
 
