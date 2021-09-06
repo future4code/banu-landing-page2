@@ -6,7 +6,7 @@ O <strong>4Food</strong> é um projeto de uma grande rede de supermercados que e
   <li>Paloma Costa
 </ul>
 
-<strong>Imagens do Site</strong>
+<strong>Imagens do Site</strong> <br>
 Section 1 + Header com nav(ao clicar,leva a seção correspondente)<br>
 ![image](https://user-images.githubusercontent.com/70165987/132145652-852fddb8-358d-41bf-9434-17f15cd90fe0.png)
 Section 2 <br>
